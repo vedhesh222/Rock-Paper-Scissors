@@ -50,7 +50,7 @@ if p == 'Yes':
         ran = r.randint(0,2)
         bot = types[ran]
         
-        print('Rohit:',bot)
+        print('Vedhesh:',bot)
         print()
         t.sleep(1)
 
